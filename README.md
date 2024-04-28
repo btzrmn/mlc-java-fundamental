@@ -1,1 +1,1 @@
-# mlc-java-fundamental test
+# mlc-java-fundamental labs and fundamentals
